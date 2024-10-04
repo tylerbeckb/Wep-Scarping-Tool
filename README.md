@@ -19,12 +19,3 @@ Install the software to your local system using GitHub clone
 
 Use the issues tab to submit any issues that you find. It will be appreciated.
 
-## Buy Me A Coffee
-
-If you have learnt anything or like it, please consider supporting me.
-Anything is appreciated!
-
-![Buy Me A Coffee][2]
-
-[1]: https://www.buymeacoffee.com/tylerbbrown
-[2]: https://cdn.buymeacoffee.com/buttons/default-orange.png
